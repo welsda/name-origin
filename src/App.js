@@ -1,7 +1,7 @@
 import React from 'react';
-import LoadNameInput from './components/name'
-import LoadCountries from './components/countries'
-import './styles/styles.css';
+import LoadNameInput from './components/name';
+import LoadCountries from './components/countries';
+import './styles.css';
 
 function App() {
   return (
